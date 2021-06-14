@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "other Data type- c sharp/1.0.0": {
+        "runtime": {
+          "other Data type- c sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "other Data type- c sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
